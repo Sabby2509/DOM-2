@@ -1,10 +1,10 @@
 let nameInput = document.querySelector(`#nameInput`);
 let numberInput = document.querySelector(`#numberInput`);
 
-btnShow = document.querySelector(`#btnShow`);
-btnAdd = document.querySelector(`#btnAdd`);
-btnRemove = document.querySelector(`#btnRemove`);
-btnEdit = document.querySelector(`#btnEdit`);
+let btnShow = document.querySelector(`#btnShow`);
+let btnAdd = document.querySelector(`#btnAdd`);
+let btnRemove = document.querySelector(`#btnRemove`);
+let btnEdit = document.querySelector(`#btnEdit`);
 
 let check = false
 
